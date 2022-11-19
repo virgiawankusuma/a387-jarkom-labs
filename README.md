@@ -1,4 +1,4 @@
-# A387-Jarkom-Labs
+# A387-Jarkom-Labs virgiawan
 
 Untuk menjalankan project ini, pastikan `npm` sudah terinstall pada komputer/laptop Anda.
 
